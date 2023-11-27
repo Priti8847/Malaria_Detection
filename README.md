@@ -1,4 +1,4 @@
-# Malaria Detection Webapp
+# Malaria_Detection_Webapp
 
 Save humans by detecting and deploying Image Cells that contain Malaria or not!
 
