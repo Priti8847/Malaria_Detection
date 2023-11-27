@@ -1,6 +1,6 @@
 # Malaria_Detection_Webapp
 
-Detecting a image cell having malria or not of human
+Detecting a cell image having malria or not of human.
 
 # Project Overview
 
